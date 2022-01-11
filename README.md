@@ -31,7 +31,7 @@
 
 <img align="left" alt="Php" width="30px" src="https://user-images.githubusercontent.com/58979522/148639451-c110eb26-1fd5-4aac-b676-633c234f232c.png" style="float:left; padding-right:10px" />
 
-<img align="left" alt="Node Js" width="30px" src="https://user-images.githubusercontent.com/58979522/148639427-71042322-4f39-4866-bc46-0412f583e726.png" style="float:left; padding-right:10px" />
+<!-- <img align="left" alt="Node Js" width="30px" src="https://user-images.githubusercontent.com/58979522/148639427-71042322-4f39-4866-bc46-0412f583e726.png" style="float:left; padding-right:10px" /> -->
 
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" style="float:left; padding-right:10px" />
 
