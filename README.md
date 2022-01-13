@@ -19,7 +19,10 @@
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style="float:left; padding-right:10px" style="float:left; padding-right:10px" />
 
+
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" style="float:left; padding-right:10px" />
+
+<img align="left" alt="Laravel" width="26px" src="https://user-images.githubusercontent.com/58979522/149363151-09121f10-2b91-4da3-8a44-8852a014eee1.png" style="float:left; padding-right:10px" />
 
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="float:left; padding-right:10px" />
 
