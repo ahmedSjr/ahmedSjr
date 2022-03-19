@@ -9,9 +9,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="a7medSjr | Twitter" width="22px" src="https://cdn-icons.flaticon.com/png/512/4494/premium/4494477.png?token=exp=1647686635~hmac=ec89ef9d5ad1eeeab5b8a842a6576a74" />][twitter]
-[<img align="left" alt="a7medSjr | LinkedIn" width="22px" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1647686263~hmac=3c4c0d50bc10d45f6ec74f4c41d777d7" />][linkedin]
-[<img align="left" alt="a7medSjr | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />][instagram]
+[<img align="left" alt="a7medSjr | Twitter" width="40px" src="https://cdn-icons.flaticon.com/png/512/4494/premium/4494477.png?token=exp=1647686635~hmac=ec89ef9d5ad1eeeab5b8a842a6576a74" />][twitter]
+[<img align="left" alt="a7medSjr | LinkedIn" width="40px" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1647686263~hmac=3c4c0d50bc10d45f6ec74f4c41d777d7" />][linkedin]
+[<img align="left" alt="a7medSjr | Instagram" width="40px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />][instagram]
 
 <br />
 
