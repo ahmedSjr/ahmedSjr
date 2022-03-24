@@ -11,7 +11,7 @@
 
 [<img align="left" alt="a7medSjr | Twitter" width="26px" src="https://img.icons8.com/fluency/344/twitter.png" />][twitter]
 [<img align="left" alt="a7medSjr | LinkedIn" width="26px" src="https://img.icons8.com/fluency/344/linkedin.png" />][linkedin]
-[<img align="left" alt="a7medSjr | Instagram" width="26px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />][instagram]
+[<img align="left" alt="a7medSjr | Instagram" width="26px" src="https://img.icons8.com/fluency/344/instagram-new.png" />][instagram]
 
 <br />
 
