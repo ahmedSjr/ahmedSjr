@@ -2,7 +2,7 @@
 
 ## I'm a JS 💙, Developer/Designer🌐, Music Lover🎵, and Future Full Stack Dev🚀!!
 
-- 🌱 I’m currently learning Vue Js✅
+- 🌱 I’m currently learning React Js✅
 - 👯 I’m looking to collaborate with other web-developers
 - 🥅 2022 Goals: Contribute to an Open Source projects / Become Node Js developer
 - ⚡ Fun fact: I love to travel and play football / watching
