@@ -1,60 +1,53 @@
 ### Hi there, I'm Ahmed 👋
 
-## I'm a JS fan 💙, Developer with the flavor of designer🌐, Future Full Stack Dev🚀!!
+## I'm a JavaScript enthusiastic 💙, Full Stack Developer🌐
 
-- 🌱 I’m currently working with Node js && Learning React Js
-- 👯 I’m looking to collaborate with other web-developers
-- 🥅 Goals: Contribute to an Open Source projects 
+- 🚀 Currently working with MERN Stack technology.
+- 👯 Seeking collaboration opportunities with other web developers.
+- ⚽ Aiming to contribute to Open Source projects. 
 
 
-### Connect with me:
-
-[<img align="left" alt="a7medSjr | Twitter" width="26px" src="https://img.icons8.com/fluency/344/twitter.png" />][twitter]
-[<img align="left" alt="a7medSjr | LinkedIn" width="26px" src="https://img.icons8.com/fluency/344/linkedin.png" />][linkedin]
-[<img align="left" alt="a7medSjr | Instagram" width="26px" src="https://img.icons8.com/fluency/344/instagram-new.png" />][instagram]
 
 <br />
 
-### Languages and Tools:
+<h3> 🛠 &nbsp;Tech Stack</h3>
 
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style="float:left; padding-right:10px" style="float:left; padding-right:10px" />
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Pug](https://img.shields.io/badge/Pug-E3C29B?style=for-the-badge&logo=pug&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-424242?style=for-the-badge&logo=express&logoColor=white)
+![Socket io](https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white)
+![Monogo Db](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" style="float:left; padding-right:10px" />
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-<img align="left" alt="Laravel" width="26px" src="https://user-images.githubusercontent.com/58979522/149363151-09121f10-2b91-4da3-8a44-8852a014eee1.png" style="float:left; padding-right:10px" />
-
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="float:left; padding-right:10px" />
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" style="float:left" />
-
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" style="float:left; padding-right:10px" />
-
-<!-- <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"  style="float:left; padding-right:10px"/> -->
-
-<img align="left" alt="Php" width="30px" src="https://user-images.githubusercontent.com/58979522/148639451-c110eb26-1fd5-4aac-b676-633c234f232c.png" style="float:left; padding-right:10px; padding-top:5px;" />
-
-<img align="left" alt="Node Js" width="30px" src="https://user-images.githubusercontent.com/58979522/148639427-71042322-4f39-4866-bc46-0412f583e726.png" style="float:left; padding-right:10px" /> 
-
-<img align="left" alt="mongodb" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="float:left; padding-right:10px" /> 
-
-<img align="left" alt="expressjs" width="30px" src="https://assets.website-files.com/61ca3f775a79ec5f87fcf937/6202fcdee5ee8636a145a41b_1234-p-500.png" style="float:left; padding-right:10px" /> 
-
-<img align="left" alt="pug" width="30px" src="https://cdn.worldvectorlogo.com/logos/pug.svg" style="float:left; padding-right:10px" /> 
-
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" style="float:left; padding-right:10px" />
-
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" style="float:left; padding-right:10px" />
-
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" style="float:left; padding-right:10px" />
-
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" style="float:left; padding-right:10px" />
 
 <br />
 <br />
 
-[twitter]: https://twitter.com/a7med_sr
-[instagram]: https://www.instagram.com/a7med_sjr
-[linkedin]: https://www.linkedin.com/in/ahmed-sirag-7b52a8197
+### 🚦 Stats
+
+![MostUsed](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedSjr&layout=compact)
+
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/ahmed-sirag-7b52a8197"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ahmed%20Sirag-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/a7med_sjr"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-a7medSjr-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-a7medsr.dev@gmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
