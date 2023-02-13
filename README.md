@@ -32,7 +32,7 @@
 
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
@@ -42,7 +42,7 @@
 
 ### 🚦 Stats
 
-![MostUsed](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedSjr&layout=compact)
+![MostUsed](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedSjr&layout=compact&theme=dark)
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
