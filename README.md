@@ -1,53 +1,69 @@
-### Hi there, I'm Ahmed 👋
+<div align="center">
 
-## I'm a JavaScript enthusiastic 💙, Full Stack Developer🌐
+# Software Engineer
 
-- 🚀 Currently working with MERN Stack technology.
-- 👯 Seeking collaboration opportunities with other web developers.
-- ⚽ Aiming to contribute to Open Source projects. 
-
-
+</div>
 
 <br />
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![Pug](https://img.shields.io/badge/Pug-E3C29B?style=for-the-badge&logo=pug&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-424242?style=for-the-badge&logo=express&logoColor=white)
-![Socket io](https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white)
-![Monogo Db](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-
+```ts
+const ahmed = {
+  role: "Software Engineer",
+  location: "Dubai, UAE 🇦🇪",
+  experience: "5+ years shipping web apps",
+  stack: ["React", "Next.js", "Node.js", "MongoDB"],
+  exploring: ["AI apps", "LLM integrations"],
+  openTo: ["Collaboration", "Open Source"],
+};
+```
 
 <br />
+
+## 🧠 About
+
+I build and ship full-stack web applications — from **REST APIs and real-time chat systems** to high-converting landing pages and internal dashboards. 
+
+Lately I've been diving into **AI-powered features and LLM integrations**, AI agents and agentic ai exploring how to weave intelligent workflows into everyday products.
+
 <br />
 
-### 🚦 Stats
+<div align="center">
 
-![MostUsed](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedSjr&layout=compact&theme=dark)
+<table>
+  <tr>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=js" width="46" alt="JavaScript" /><br /><sub><b>JavaScript</b></sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=ts" width="46" alt="TypeScript" /><br /><sub><b>TypeScript</b></sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=react" width="46" alt="React" /><br /><sub><b>React</b></sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=nextjs" width="46" alt="Next.js" /><br /><sub><b>Next.js</b></sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=nodejs" width="46" alt="Node.js" /><br /><sub><b>Node.js</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=express" width="46" alt="Express" /><br /><sub><b>Express</b></sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=mongodb" width="46" alt="MongoDB" /><br /><sub><b>MongoDB</b></sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=tailwind" width="46" alt="Tailwind" /><br /><sub><b>Tailwind</b></sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=vitest" width="46" alt="Vitest" /><br /><sub><b>Vitest</b></sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=docker" width="46" alt="Docker" /><br /><sub><b>Docker</b></sub></td>
+  </tr>
+</table>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<sub>Also working with: WebSockets · REST APIs · Postman · Webpack · CI/CD</sub>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/ahmed-sirag-7b52a8197"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ahmed%20Sirag-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/a7med_sjr"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-a7medSjr-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-a7medsr.dev@gmail.com-blue?style=flat-square&logo=gmail"></a>
-</p>
+</div>
+
+<br />
+
+<div align="center">
+
+## 🌐 Connect
+
+<a href="https://www.linkedin.com/in/ahmed-sirag-7b52a8197">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://www.instagram.com/a7med_sjr">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="mailto:a7medsr.dev@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+
+</div>
