@@ -23,7 +23,8 @@ const ahmed = {
 
 I build and ship full-stack web applications — from **REST APIs and real-time chat systems** to high-converting landing pages and internal dashboards. 
 
-Lately I've been diving into **AI-powered features and LLM integrations**, AI agents and agentic ai exploring how to weave intelligent workflows into everyday products.
+I’m exploring applied AI, LLM integrations, and agentic workflows,
+with a focus on building useful business software.
 
 <br />
 
